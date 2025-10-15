@@ -2,57 +2,49 @@
   {
     "id": 1,
     "name": "Caffe Latte",
-    "price": 22000,
-    "description": "Kopi susu lembut dengan rasa seimbang antara espresso dan susu.",
-    "image": "https://i.imgur.com/Cpax3Sm.jpg"
+    "deskripsi_singkat": "Kopi susu lembut dengan rasa seimbang antara espresso dan susu hangat.",
+    "deskripsi_jelas": "Caffe Latte merupakan minuman berbasis espresso yang dicampur dengan susu hangat dalam proporsi seimbang. Teksturnya halus dan rasanya ringan, cocok bagi penikmat kopi yang tidak terlalu suka rasa pahit. Biasanya disajikan dengan lapisan tipis buih susu di atasnya, memberikan sensasi lembut di setiap tegukan."
   },
   {
     "id": 2,
     "name": "Caffe Mocha",
-    "price": 25000,
-    "description": "Kombinasi espresso, cokelat, dan susu untuk rasa manis dan kuat.",
-    "image": "https://i.imgur.com/12Tmprl.jpg"
+    "deskripsi_singkat": "Kombinasi kopi, cokelat, dan susu yang menghasilkan rasa manis dan lembut.",
+    "deskripsi_jelas": "Caffe Mocha adalah perpaduan espresso, cokelat, dan susu yang menciptakan cita rasa manis dan creamy. Aroma cokelatnya berpadu sempurna dengan kekuatan espresso, menjadikannya pilihan favorit bagi pecinta kopi yang menyukai rasa manis namun tetap ingin menikmati karakter khas kopi."
   },
   {
     "id": 3,
     "name": "Cappuccino",
-    "price": 24000,
-    "description": "Espresso dengan buih susu lembut di atasnya.",
-    "image": "https://i.imgur.com/jXq4pnY.jpg"
+    "deskripsi_singkat": "Kopi dengan buih susu tebal dan cita rasa seimbang antara kuat dan lembut.",
+    "deskripsi_jelas": "Cappuccino terdiri dari espresso, susu panas, dan buih susu tebal dalam proporsi yang sama. Minuman ini menghadirkan keseimbangan antara kekuatan rasa kopi dan kelembutan susu. Buih di atasnya memberikan sensasi lembut saat diminum serta menjaga suhu kopi agar tetap hangat lebih lama."
   },
   {
     "id": 4,
     "name": "Coffee Frappuccino",
-    "price": 27000,
-    "description": "Minuman kopi dingin dengan es dan susu yang menyegarkan.",
-    "image": "https://i.imgur.com/fzgHMuy.jpg"
+    "deskripsi_singkat": "Kopi dingin dengan es batu, susu, dan rasa manis yang menyegarkan.",
+    "deskripsi_jelas": "Coffee Frappuccino adalah minuman berbasis kopi yang disajikan dingin dengan tambahan es batu, susu, dan sirup manis. Rasa kopinya ringan namun menyegarkan, cocok diminum di siang hari atau saat cuaca panas. Teksturnya creamy dan lembut, membuatnya terasa seperti dessert dalam bentuk minuman."
   },
   {
     "id": 5,
     "name": "Cold Brew",
-    "price": 28000,
-    "description": "Kopi diseduh dingin selama 12 jam, menghasilkan rasa halus dan ringan.",
-    "image": "https://i.imgur.com/84CqCyV.jpg"
+    "deskripsi_singkat": "Kopi hasil seduhan dingin selama berjam-jam dengan rasa halus dan ringan.",
+    "deskripsi_jelas": "Cold Brew dibuat dengan menyeduh biji kopi menggunakan air dingin selama 12–18 jam. Proses ini menghasilkan kopi dengan keasaman rendah, rasa halus, dan aroma lembut. Rasanya tidak terlalu pahit dan cocok bagi penikmat kopi dingin yang mencari kesegaran alami tanpa tambahan gula."
   },
   {
     "id": 6,
     "name": "Mango Passion Frappuccino",
-    "price": 30000,
-    "description": "Campuran mangga, susu, dan kopi untuk sensasi tropis yang segar.",
-    "image": "https://i.imgur.com/NKw1Yqi.jpg"
+    "deskripsi_singkat": "Minuman tropis dengan perpaduan mangga, kopi, dan susu yang segar.",
+    "deskripsi_jelas": "Mango Passion Frappuccino menghadirkan rasa manis dan asam dari buah mangga yang berpadu dengan kelembutan susu serta aroma kopi ringan. Sensasi tropisnya memberikan kesegaran tersendiri, cocok untuk kamu yang ingin menikmati kopi dalam versi buah yang eksotis dan tidak monoton."
   },
   {
     "id": 7,
     "name": "Raspberry Currant Frappuccino",
-    "price": 32000,
-    "description": "Rasa buah berry segar berpadu dengan susu dan es yang lembut.",
-    "image": "https://i.imgur.com/ui1Gi5t.jpg"
+    "deskripsi_singkat": "Perpaduan kopi dan buah beri merah dengan rasa manis-asam yang menyegarkan.",
+    "deskripsi_jelas": "Raspberry Currant Frappuccino merupakan varian unik yang menggabungkan espresso lembut dengan buah raspberry dan currant. Rasanya manis sekaligus sedikit asam, memberikan pengalaman berbeda dibandingkan minuman kopi biasa. Cocok diminum dingin untuk menyegarkan pikiran dan suasana hati."
   },
   {
     "id": 8,
     "name": "Vanilla Sweet Cream Cold Brew",
-    "price": 31000,
-    "description": "Cold brew lembut berpadu vanilla manis dan krim yang creamy.",
-    "image": "https://i.imgur.com/jhXqmKX.jpg"
+    "deskripsi_singkat": "Cold brew lembut dengan tambahan vanilla manis dan krim lembut di atasnya.",
+    "deskripsi_jelas": "Vanilla Sweet Cream Cold Brew adalah varian dingin dari kopi seduh dingin dengan sentuhan manis vanilla dan krim lembut di bagian atasnya. Kombinasi rasa pahit ringan, manis vanilla, dan tekstur creamy membuat minuman ini terasa mewah namun tetap menyegarkan — pilihan ideal bagi penikmat kopi dingin premium."
   }
 ]
