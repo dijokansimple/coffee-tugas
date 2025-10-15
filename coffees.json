@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Caffe Latte",
+    "price": 22000,
+    "description": "Kopi susu lembut dengan rasa seimbang antara espresso dan susu.",
+    "image": "https://i.imgur.com/Cpax3Sm.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Caffe Mocha",
+    "price": 25000,
+    "description": "Kombinasi espresso, cokelat, dan susu untuk rasa manis dan kuat.",
+    "image": "https://i.imgur.com/12Tmprl.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cappuccino",
+    "price": 24000,
+    "description": "Espresso dengan buih susu lembut di atasnya.",
+    "image": "https://i.imgur.com/jXq4pnY.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Coffee Frappuccino",
+    "price": 27000,
+    "description": "Minuman kopi dingin dengan es dan susu yang menyegarkan.",
+    "image": "https://i.imgur.com/fzgHMuy.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Cold Brew",
+    "price": 28000,
+    "description": "Kopi diseduh dingin selama 12 jam, menghasilkan rasa halus dan ringan.",
+    "image": "https://i.imgur.com/84CqCyV.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Mango Passion Frappuccino",
+    "price": 30000,
+    "description": "Campuran mangga, susu, dan kopi untuk sensasi tropis yang segar.",
+    "image": "https://i.imgur.com/NKw1Yqi.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Raspberry Currant Frappuccino",
+    "price": 32000,
+    "description": "Rasa buah berry segar berpadu dengan susu dan es yang lembut.",
+    "image": "https://i.imgur.com/ui1Gi5t.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Vanilla Sweet Cream Cold Brew",
+    "price": 31000,
+    "description": "Cold brew lembut berpadu vanilla manis dan krim yang creamy.",
+    "image": "https://i.imgur.com/jhXqmKX.jpg"
+  }
+]
